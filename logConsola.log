@@ -1,0 +1,66 @@
+[INFO] 16:35:21:296 kernel/(5553:5553): inicio Consola
+[INFO] 16:35:21:297 kernel/(5554:5554): inicio Consola
+[ERROR] 16:35:21:298 kernel/(5554:5554): archivoConfig es NULL
+[INFO] 16:35:21:299 kernel/(5552:5552): inicio Consola
+[ERROR] 16:35:21:303 kernel/(5553:5553): archivoConfig es NULL
+[ERROR] 16:35:21:304 kernel/(5552:5552): archivoConfig es NULL
+[INFO] 16:36:17:245 kernel/(5636:5636): inicio Consola
+[INFO] 16:36:17:248 kernel/(5635:5635): inicio Consola
+[ERROR] 16:36:17:251 kernel/(5636:5636): archivoConfig es NULL
+[INFO] 16:36:17:254 kernel/(5634:5634): inicio Consola
+[ERROR] 16:36:17:266 kernel/(5635:5635): archivoConfig es NULL
+[ERROR] 16:36:17:266 kernel/(5634:5634): archivoConfig es NULL
+[INFO] 16:36:53:618 kernel/(5704:5704): inicio Consola
+[INFO] 16:36:53:621 kernel/(5703:5703): inicio Consola
+[INFO] 16:36:53:624 kernel/(5702:5702): inicio Consola
+[ERROR] 16:36:53:625 kernel/(5704:5704): archivoConfig es NULL
+[ERROR] 16:36:53:637 kernel/(5703:5703): archivoConfig es NULL
+[ERROR] 16:36:53:639 kernel/(5702:5702): archivoConfig es NULL
+[INFO] 16:40:27:169 kernel/(6021:6021): inicio Consola
+[INFO] 16:40:27:168 kernel/(6023:6023): inicio Consola
+[INFO] 16:40:27:168 kernel/(6022:6022): inicio Consola
+[ERROR] 16:40:27:173 kernel/(6023:6023): archivoConfig es NULL
+[ERROR] 16:40:27:174 kernel/(6022:6022): archivoConfig es NULL
+[ERROR] 16:40:27:186 kernel/(6021:6021): archivoConfig es NULL
+[INFO] 16:42:57:911 kernel/(6288:6288): inicio Consola
+[INFO] 16:42:57:913 kernel/(6287:6287): inicio Consola
+[ERROR] 16:42:57:915 kernel/(6288:6288): archivoConfig es NULL
+[ERROR] 16:42:57:932 kernel/(6287:6287): archivoConfig es NULL
+[INFO] 16:42:57:934 kernel/(6286:6286): inicio Consola
+[ERROR] 16:42:57:934 kernel/(6286:6286): archivoConfig es NULL
+[INFO] 16:44:37:707 kernel/(6538:6538): inicio Consola
+[INFO] 16:44:37:708 kernel/(6536:6536): inicio Consola
+[INFO] 16:44:37:708 kernel/(6537:6537): inicio Consola
+[DEBUG] 16:44:37:710 kernel/(6538:6538): 3
+[DEBUG] 16:44:37:711 kernel/(6538:6538): /instrucciones/PLANI_2
+[DEBUG] 16:44:37:711 kernel/(6538:6538): crearMensaje
+[ERROR] 16:44:37:711 kernel/(6538:6538): no input_file
+[DEBUG] 16:44:37:714 kernel/(6537:6537): 2
+[DEBUG] 16:44:37:716 kernel/(6537:6537): /instrucciones/PLANI_1
+[DEBUG] 16:44:37:717 kernel/(6537:6537): crearMensaje
+[ERROR] 16:44:37:717 kernel/(6537:6537): no input_file
+[DEBUG] 16:44:37:729 kernel/(6536:6536): 1
+[DEBUG] 16:44:37:729 kernel/(6536:6536): /instrucciones/PLANI_1
+[DEBUG] 16:44:37:729 kernel/(6536:6536): crearMensaje
+[ERROR] 16:44:37:729 kernel/(6536:6536): no input_file
+[INFO] 16:46:08:118 kernel/(6702:6702): inicio Consola
+[INFO] 16:46:08:120 kernel/(6701:6701): inicio Consola
+[DEBUG] 16:46:08:123 kernel/(6702:6702): 3
+[DEBUG] 16:46:08:124 kernel/(6702:6702): ./instrucciones/PLANI_2
+[DEBUG] 16:46:08:124 kernel/(6702:6702): crearMensaje
+[DEBUG] 16:46:08:127 kernel/(6701:6701): 2
+[INFO] 16:46:08:127 kernel/(6702:6702): socket kernel 4
+[INFO] 16:46:08:127 kernel/(6702:6702): Envie Instrucciones al kernel
+[DEBUG] 16:46:08:127 kernel/(6701:6701): ./instrucciones/PLANI_1
+[DEBUG] 16:46:08:127 kernel/(6701:6701): crearMensaje
+[INFO] 16:46:08:128 kernel/(6701:6701): socket kernel 4
+[INFO] 16:46:08:128 kernel/(6701:6701): Envie Instrucciones al kernel
+[INFO] 16:46:08:130 kernel/(6700:6700): inicio Consola
+[DEBUG] 16:46:08:130 kernel/(6700:6700): 1
+[DEBUG] 16:46:08:130 kernel/(6700:6700): .
+[DEBUG] 16:46:08:130 kernel/(6700:6700): crearMensaje
+[INFO] 16:46:08:131 kernel/(6700:6700): socket kernel 4
+[INFO] 16:46:08:131 kernel/(6700:6700): Envie Instrucciones al kernel
+[DEBUG] 16:46:14:366 kernel/(6700:6700): paqute null
+[DEBUG] 16:46:14:366 kernel/(6701:6701): paqute null
+[DEBUG] 16:46:14:366 kernel/(6702:6702): paqute null
